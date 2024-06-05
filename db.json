@@ -1,0 +1,28 @@
+{
+  "payments": [
+    {
+      "payment_id": "P12345",
+      "sender": "James Smith",
+      "recipient": "Emily Johnson",
+      "amount": 100.00,
+      "currency": "USD",
+      "foreign": true,
+      "status": "pending",
+      "date": "2024-06-01",
+      "reference": "Balance transfer from old bank",
+      "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e"
+    },
+    {
+      "payment_id": "P67890",
+      "sender": "Oliver Brown",
+      "recipient": "Charlotte Wilson",
+      "amount": 50.00,
+      "currency": "GBP",
+      "foreign": false,
+      "status": "completed",
+      "date": "2024-06-03",
+      "reference": "Personal account payment",
+      "imageUrl": "https://images.unsplash.com/photo-1607166602071-847b7d110781"
+    }
+  ]
+}
