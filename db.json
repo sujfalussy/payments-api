@@ -3,7 +3,7 @@
     {
       "payment_id": "P12345",
       "sender": "James Smith",
-      "recipient": "Emily Johnson",
+      "recipient": "James Taylor",
       "amount": 100.00,
       "currency": "USD",
       "foreign": true,
@@ -15,7 +15,7 @@
     {
       "payment_id": "P67890",
       "sender": "Oliver Brown",
-      "recipient": "Charlotte Wilson",
+      "recipient": "James Taylor",
       "amount": 50.00,
       "currency": "GBP",
       "foreign": false,
